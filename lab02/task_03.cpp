@@ -54,3 +54,4 @@ int main() {
     cout << "Результаты:" << endl << "A="<< A << " B=" << B << " C=" << C << endl;
     return 0;
 }
+// test

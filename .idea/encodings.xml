@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/DZ/dz_01/task_01.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/UTP/main.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_02/task_03.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_03/task_01.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_03/task_02.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_03/task_03.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_04/task_02.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_04/task_02_01.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_04/task_03.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_04/task_04.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_04/task_05.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_04/task_06.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/labs/lab_04/task_07.cpp" charset="IBM866" />
+    <file url="file://$PROJECT_DIR$/ready.cpp" charset="IBM866" />
     <file url="file://$PROJECT_DIR$/test.cpp" charset="IBM866" />
-    <file url="file://$PROJECT_DIR$/trash/lab_01/test.cpp" charset="IBM866" />
     <file url="file://$PROJECT_DIR$/trash/lab_01/test.cpp" charset="IBM866" />
     <file url="PROJECT" charset="UTF-8" />
   </component>

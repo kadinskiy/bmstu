@@ -31,4 +31,3 @@ int main() {
 
     cout << "y=" << y << endl;
 }
-// test
